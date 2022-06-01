@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Projects </title>
+    <link rel="stylesheet" href="file.css">
+    <div class="topnav" class="imgi" class="imgt">
+    	<a href="active" href="new project">Projects </a>
+    	<a href="aboutme.html">About Me</a>
+    	<a href="#about">Projects</a>
+    	<a href="#contact">Contact</a>
+    </div>
+  </head>
+  <body class="b">
+
+    <h1>My Projects </h1>
+    <img class="img" src = "flower.jfif">
+    <p class="p"> This is my sites home page. I hope you enjoy learning about me. </p>
+  </body>
+</html>
